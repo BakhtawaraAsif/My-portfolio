@@ -1,0 +1,25 @@
+
+Bakhtawar Asif Portfolio
+========================
+
+About Me
+--------
+I am a recent graduate in Software Engineering with expertise in Web Development, Canva Design, and UI/UX Design.
+
+Skills
+------
+- Web Development
+- Canva Expertise
+- UI/UX Design
+
+Projects
+--------
+1. **Portfolio Website:** A personal portfolio to showcase my skills and projects.
+2. **Responsive Blog:** A seamless blog platform for reading on all devices.
+3. **Visual Branding:** Logos, posters, and social media posts for an NGO.
+4. **Food Delivery App Mockup:** Wireframes and prototypes for a modern delivery service.
+
+Contact
+-------
+Email: bakhtawar@example.com
+Phone: +123-456-7890
